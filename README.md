@@ -1,4 +1,4 @@
-# Raspberry Pi cross-compilation in a Docker container
+# Raspberry Pi driver cross-compilation in a Docker container
 
 The Dockerfile captures the instructions from this link:
 
