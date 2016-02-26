@@ -8,7 +8,7 @@ The Dockerfile captures the instructions from this link:
 
 ````
 git clone https://github.com/ChadMcQuillen/docker-raspberry-pi-driver-cross-compiler.git
-cd docker-raspberry-driver-cross-compiler
+cd docker-raspberry-pi-driver-cross-compiler
 docker build -t <repo> .
 docker run -i -t <repo>
 ````
